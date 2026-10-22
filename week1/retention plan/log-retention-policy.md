@@ -2,7 +2,6 @@
 
 > **Project:** SIEM Detection Engineering, Alert Triage & SOC Operations
 > **Document type:** Log retention reference
-> **Status:** Template, adjust values to your organization's legal, regulatory, and storage constraints
 
 ---
 
